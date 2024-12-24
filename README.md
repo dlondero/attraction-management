@@ -64,7 +64,7 @@ or is you have `make` installed:
 make dev
 ````
 
-Browse from [http://localhost:8000](http://localhost:8000).
+Browse from [http://localhost:8000/login](http://localhost:8000/login) where you can sign in with the following credentials.
 
 UserSeeder creates:
 - an `admin` with email `admin@example.com` and password `password`
