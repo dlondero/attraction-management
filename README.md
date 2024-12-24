@@ -14,7 +14,6 @@ cd attraction-management
 
 #### Step 1
 
-```bash
 If you have `make` installed, you can use the following command to execute all the above steps:
 
 ```bash
